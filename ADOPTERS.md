@@ -14,7 +14,7 @@ This is a list of companies that have adopted Capsule, feel free to open a Pull-
 ![Politecnico di Torino](https://www.polito.it/themes/custom/polito/logo.svg)
 
 ### [Reevo](https://www.reevo.it/)
-![Reevo Cloud and CyberSecurity](https://www.dropbox.com/s/x3q6r0oqstgvtdr/Logo_ReeVo_270x200px.svg)
+![Reevo Cloud and CyberSecurity](https://www.dropbox.com/s/x3q6r0oqstgvtdr/Logo_ReeVo_270x200px.svg?raw=1)
 
 ### [University of Torino](https://www.unito.it)
 ![University of Torino](https://www.unito.it/sites/all/themes/bsunito/img/logo_new_2022.svg)
